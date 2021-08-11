@@ -8,5 +8,4 @@
 
 #### Download Dataset
 Download the dataset from kaggle
-[![dev.to badge](Dataset)](https://www.kaggle.com/arbethi/disaster-detection-from-aerial-imagery-with-cnn
-)
+[![dev.to badge]](https://www.kaggle.com/arbethi/disaster-detection-from-aerial-imagery-with-cnn)
