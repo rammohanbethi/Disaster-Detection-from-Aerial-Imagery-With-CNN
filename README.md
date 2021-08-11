@@ -5,3 +5,7 @@
 2. Please remove irrelevant image if necessary
 3. Number of image samples in each class is different which may result biased model. Select images according to your application.
 4. I tried to remove duplicate images, still there may be some. Delete those images before training the model.
+
+#### Download Dataset
+Download the dataset from kaggle
+https://www.kaggle.com/arbethi/disaster-detection-from-aerial-imagery-with-cnn
