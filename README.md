@@ -7,5 +7,4 @@
 4. I tried to remove duplicate images, still there may be some. Delete those images before training the model.
 
 #### Download Dataset
-Download the dataset from kaggle
-[Dataset]](https://www.kaggle.com/arbethi/disaster-detection-from-aerial-imagery-with-cnn)
+Download the dataset from https://www.kaggle.com/arbethi/disaster-detection-from-aerial-imagery-with-cnn
